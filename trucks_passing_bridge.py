@@ -42,13 +42,3 @@ weight = 10
 truck_weights = [7,4,5,6]
 
 print(solution(bridge_length,weight,truck_weights))
-
-a = truck_weights.pop(0)
-bridge_length = 2
-bridge = []
-print(range(0,bridge_length-1))
-
-for i in range(0,bridge_length):
-    bridge.append(0)
-
-print(bridge)
