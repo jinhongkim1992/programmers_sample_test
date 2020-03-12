@@ -42,4 +42,3 @@ speeds = [1,30,5]
 
 print(solution(progresses, speeds))
 
-print(dict())
